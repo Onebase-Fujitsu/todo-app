@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Onebase-Fujitsu/todo-app-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Onebase-Fujitsu/todo-app-server.git
